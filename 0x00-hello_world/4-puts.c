@@ -1,11 +1,12 @@
-#include <stdio.h>
+lude <stdio.h>
 
 /**
- * main - print a text
- * Return: always 0 (sucess)
+ * main - prints a text
+ * Return: always 0 (success)
  */
- int main(void)
-   {
-	   puts("\"Programming is like a multilingual puzzle");
-	   return(0);
-   }
+
+int main(void)
+{
+	puts("\"Programming is like building a multilingual puzzle");
+	return (0);
+}
